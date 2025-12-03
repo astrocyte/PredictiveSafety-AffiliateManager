@@ -1,1 +1,13 @@
 wordpress-mcp-server/
+
+# MCP config
+.claude/mcp_config.json
+
+# Backups (large files)
+backups/
+*.tar.gz
+*.sql
+*.zip
+
+# macOS
+.DS_Store
